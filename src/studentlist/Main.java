@@ -33,6 +33,5 @@ public class Main {
         manager.listStudents();
 
         scanner.close();
-        System.out.println("Thank you");
     }
 }
