@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
         StudentManager manager = new StudentManager();
         Scanner scanner = new Scanner(System.in);
+        //comment
 
         System.out.println("Enter the number of students to add:");
         int numberOfStudents = Integer.parseInt(scanner.nextLine());
